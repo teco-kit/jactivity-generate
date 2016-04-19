@@ -1,0 +1,2 @@
+# jactivity-generate
+Generate classifiers
